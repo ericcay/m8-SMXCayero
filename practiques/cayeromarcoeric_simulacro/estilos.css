@@ -1,0 +1,19 @@
+header h1{
+    text-align: center;
+    background-size: cover;
+    height: 80%;
+    
+}
+
+
+
+nav{
+    background-color:whitesmoke;
+    padding: 15px;
+    font-size: 25PX;
+}
+ul{
+display: flex;
+gap: 50px;
+list-style: none;
+}
