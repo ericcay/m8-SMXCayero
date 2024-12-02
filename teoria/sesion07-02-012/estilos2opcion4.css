@@ -1,0 +1,73 @@
+header{
+    text-align: center;
+    font-family: libre baskerville;
+}
+
+.main{
+    text-align:center;
+    height: 40vh;
+    width:100%;
+    font-family: libre baskerville;
+    display: inline-block;
+    align-items: center;
+    height: 100%;
+ }
+ .card{
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+    background-color:white;
+    padding: 10px;
+    box-shadow: -12px 10px 5px 0px lightgrey;
+    -moz-box-shadow: -12px 10px 5px 0px lightgrey;
+    font-weight: bold;
+    font-family: libre baskerville;
+    
+    
+ }
+ .card2{
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+    background-color:white;
+    padding: 10px;
+    box-shadow: -12px 10px 5px 0px lightgrey;
+    -moz-box-shadow: -12px 10px 5px 0px lightgrey;
+    font-weight: bold;
+    font-family: libre baskerville;
+    
+ }
+ .card3{
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+    background-color:white;
+    padding: 10px;
+    box-shadow: -12px 10px 5px 0px lightgray;
+    -moz-box-shadow: -12px 10px 5px 0px lightgray;
+    font-weight: bold;
+    font-family: libre baskerville;
+  
+ }
+ img{
+    
+    width:100%;
+    border-radius: 10px;
+ }
+ .Fromtheblog{
+    font-weight: bold;
+    color: darkgrey;
+    font-family: libre baskerville;
+ }
+ footer{
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    width:6%;
+    padding: 1px 0 1px 0;
+    margin: auto;
+    font-weight: normal ;
+    font-size: 14px;
+    text-transform: capitalize;
+
+ }
