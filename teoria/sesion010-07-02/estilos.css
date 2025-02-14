@@ -1,4 +1,4 @@
-.tablas{
+body{
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -9,3 +9,5 @@ th{
 td,th{
     padding: 5px;
 }
+
+
