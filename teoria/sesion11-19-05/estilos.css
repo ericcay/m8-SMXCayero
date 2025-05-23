@@ -36,4 +36,7 @@ body{
     height:100vh;
 }
 
+.clase-nav:hover{
+    background-color: white;
+}
 

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.arriba-header{
+    display: flex;
+    
+}
+.iconos{
+    display: flex;
+    justify-content: end;
+    gap: 25px;
+}
+
+.todos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.segundo-header{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+.lista-header{
+    display: flex;
+    gap:15px;
+    margin-right: 200px;
+}
+
+.titulo-header{
+    margin-left: 100px;
+}
+
+.contenido{
+    background-image: url(https://www.dzoom.org.es/wp-content/uploads/2017/07/seebensee-2384369-810x540.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.titulo{
+    text-align: center;
+    padding-top: 150px;
+}
+
+body{
+    font-family: 'Poppins';
+}
+
+.tituloo h1{
+   font-size: 80px; 
+   text-align: center;
+}
+
+.boton{
+margin-left: 750px;
+}
